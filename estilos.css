@@ -278,3 +278,32 @@ li {
     font-size: 14px;
     font-weight: 600;
   }
+figure {
+    margin-top: 32px;
+}
+figure {
+    margin: 0 0 1rem;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+main {
+    margin-top: 285px;
+    text-align: center;
+}
+figure.intro > img {
+    width: 70%;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+
